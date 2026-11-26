@@ -1,0 +1,3 @@
+﻿[{"type":"click","selector":"nav [data-tab=\"cases\"]"},
+ {"type":"click","selector":"[data-case=\"daily\"]"},
+ {"type":"click","selector":"nav [data-tab=\"history\"]"}]
